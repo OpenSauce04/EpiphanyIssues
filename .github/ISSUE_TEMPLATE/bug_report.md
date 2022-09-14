@@ -25,13 +25,13 @@ Steps to reproduce the behavior:
 
 **Screenshots**
 ---
-If applicable, add screenshots to help explain your problem.
+<!--If applicable, add screenshots to help explain your problem.-->
 
 **Version information:**
 ---
- - Installed wave number: 
- - Version number <!--(stored in the mod's `metadata.xml` file)-->:
+ - Installed wave number: <!--e.g. Wave 3-->
+ - Version number: <!--(stored in the mod's `metadata.xml` file)-->
 
 **Additional context**
 ---
-Add any other context about the problem here.
+<!--Add any other context about the problem here.-->
