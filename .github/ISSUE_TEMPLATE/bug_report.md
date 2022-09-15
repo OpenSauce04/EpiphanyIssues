@@ -15,10 +15,6 @@ assignees: ''
 ---
 Steps to reproduce the behavior:
 
-**Expected behavior**
----
-<!--A clear and concise description of what you expected to happen.-->
-
 **Log**
 ---
 <!--If applicable, add a pastebin.com or other paste link to your log.txt file from when the issue occurred.-->
