@@ -25,7 +25,7 @@ Steps to reproduce the behavior:
 
 **Version information:**
 ---
- - Installed wave number: <!--e.g. Wave 3-->
+ - Installed wave number: <!--e.g. Wave 4-->
  - Version number: <!--(stored in the mod's `metadata.xml` file)-->
 
 **Additional context**
