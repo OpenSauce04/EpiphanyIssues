@@ -23,10 +23,10 @@ Steps to reproduce the behavior:
 ---
 <!--If applicable, add screenshots to help explain your problem.-->
 
-**Version information:**
+**Version information:** <!-- You can find this information by running `trmod version-info` -->
 ---
  - Installed wave number: <!--e.g. Wave 4-->
- - Version number: <!--(stored in the mod's `metadata.xml` file)-->
+ - Version number: 
 
 **Additional context**
 ---
