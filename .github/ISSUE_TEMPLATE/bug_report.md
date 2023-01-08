@@ -23,7 +23,7 @@ Steps to reproduce the behavior:
 ---
 <!--If applicable, add screenshots to help explain your problem.-->
 
-**Version information:** <!-- You can find this information by running `trmod version-info` -->
+**Version information:** <!-- You can find this information by running `epiphany version-info` in the console -->
 ---
  - Installed wave number: <!--e.g. Wave 4-->
  - Version number: 
