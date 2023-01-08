@@ -15,9 +15,9 @@ assignees: ''
 ---
 Steps to reproduce the behavior:
 
-**Log**
+**EpiphanyDiag info**
 ---
-<!--If applicable, add a pastebin.com or other paste link to your log.txt file from when the issue occurred.-->
+<!--Please extract and run the "EpiphanyDiag.exe" program in the mod's folder, and post the file it produces. This will provide us with detailed logs and will heavily improve the likelihood that we will be able to resolve your issue-->
 
 **Screenshots**
 ---
