@@ -1,0 +1,52 @@
+
+name: Bug Report
+description: File a bug report
+labels: ["Bug", "Unconfirmed", "Wave 4"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Preamble
+      description: Please ensure that you have done all of the following
+      options:
+        - label: I am either using the Steam Workshop version of the mod, or I am using the official Gamebanana mirror
+          required: true
+        - label: "I am playing on v1.7.9b of The Binding of Isaac: Repentance"
+          required: true
+        - label: I have tried installing the Mod Error Container mod before filing this issue
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What Happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell a detailed description of what happened
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If there are any applicable screenshots, please share them here
+      placeholder: Drag and drop images here
+  - type: textarea
+    id: how-reproduce
+    attributes:
+      label: Steps to Reproduce the Issue
+      description: How do we get this problem to happen?
+      placeholder: Format this as a bullet point list
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Diagnostics Information
+      description: Please extract and run the `EpiphanyDiag` program stored in the mod's folder, and upload the produced `tar.gz` file here. If you get Error 2, you extracted it wrong.
+      placeholder: Drag and drop the file here
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: If you have anything else to add, please say it here.
