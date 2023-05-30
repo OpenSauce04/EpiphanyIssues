@@ -9,7 +9,7 @@ body:
       label: Preamble
       description: Please ensure that you have done all of the following
       options:
-        - label: I am either using the Steam Workshop version of the mod, or I am using the official Gamebanana mirror
+        - label: I either downloaded the mod by subscribing on the Steam Workshop, or I am using the official Gamebanana mirror
           required: true
         - label: "I am playing on v1.7.9b of The Binding of Isaac: Repentance"
           required: true
