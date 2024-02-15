@@ -11,9 +11,11 @@ body:
       options:
         - label: I either downloaded the mod by subscribing on the Steam Workshop, or I am using the official Gamebanana mirror
           required: true
+        - label: I have checked that I am running the latest version of Epiphany
+          required: true
         - label: "I am playing on v1.7.9b of The Binding of Isaac: Repentance"
           required: true
-        - label: I have tried installing the Mod Error Container mod before filing this issue
+        - label: I have tried installing either the 'Mod Error Container' mod or Repentogon before filing this issue
           required: true
   - type: textarea
     id: what-happened
